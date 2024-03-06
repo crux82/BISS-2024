@@ -1,4 +1,4 @@
-### BISS-2024 Tutorial
+### Bertinoro International Spring School 2024
 
 # Large Language Models and How to Instruction Tune Them (in a Sustainable Way)
 
