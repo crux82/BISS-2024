@@ -27,6 +27,7 @@ The repository includes code for fine-tuning a Large Language Model (based on [B
 This is a Pytorch (+ **Huggingface** transformers) implementation of a "simple" text classifier defined using BERT-based models. 
 In this lab we will see how it is simple to use BERT for a sentence classification task, obtaining state-of-the-art results in few lines of python code.
 
+The python book is available at this [**LINK**](BISS-2024_LAB-1_Training_BERT_based_models_in_few_lines_of_code.ipynb).
 
 ### Lab 2: Fine-tune a LLaMA-based model to all tasks from EVALITA 2023
 
@@ -40,14 +41,14 @@ The code is heavily based on the one used in ExtremITA system participating to E
 
 The overall process is divided in four steps:
 
-* [**Step 1 - Encoding the data**](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLiC_it_2023_tutorial_ExtremITA_0_data_encoder.ipynb): it shows how to encode data from an EVALITA task to generate prompts for the LLM
-* [**Step 2 - Fine-tuning the LLaMA model**](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLiC_it_2023_tutorial_ExtremITA_1_train.ipynb): it shows how to fine-tune the LLMS given the prompts 
-* [**Step 3 - Inference: generating answers**](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLiC_it_2023_tutorial_ExtremITA_2_inference.ipynb): it shows how to use the fined-tuned model
-* [**Step 4 - Deconding the data**](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLiC_it_2023_tutorial_ExtremITA_3_data_decoder.ipynb): it shows how to conver the data to be evaluated in the EVALTA challenge
+* [**Step 1 - Encoding the data**](BISS-2024_LAB-2.1_ExtremITA_data_encoder.ipynb): it shows how to encode data from an EVALITA task to generate prompts for the LLM
+* [**Step 2 - Fine-tuning the LLaMA model**](BISS-2024_LAB-2.2_ExtremITA_train.ipynb): it shows how to fine-tune the LLMS given the prompts 
+* [**Step 3 - Inference: generating answers**](BISS-2024_LAB-2.3_ExtremITA_data_decoder.ipynb): it shows how to use the fined-tuned model
+* [**Step 4 - Deconding the data**](BISS-2024_LAB-2.4_ExtremITA_inference.ipynb): it shows how to conver the data to be evaluated in the EVALTA challenge
 
 ## Slides
 
-The repository also features **tutorial slides** ([LINK]()).
+The repository also features **tutorial slides** ([LINK](BISS_2024_slides.pdf)).
 
 ## Contacts
 
