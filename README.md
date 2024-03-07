@@ -4,7 +4,7 @@
 
 ### **Authors**: [Danilo Croce](https://scholar.google.it/citations?user=dXewdYAAAAAJ&hl=it) 
 
-### Many thanks to: [Claudiu Daniel Hromei](https://scholar.google.it/citations?user=YQRKKFoAAAAJ&hl=it) (for supporting the creation of these exaples)
+### Many thanks to: [Claudiu Daniel Hromei](https://scholar.google.it/citations?user=YQRKKFoAAAAJ&hl=it) for supporting the development of (most of the) code
 
 This repository hosts materials from the Bertinoro International Spring School - [BISS-2024 tutorial](https://cs.unibo.it/projects/BISS/2024/), aiming to:
 
