@@ -43,8 +43,8 @@ The overall process is divided in four steps:
 
 * [**Step 1 - Encoding the data**](BISS-2024_LAB-2.1_ExtremITA_data_encoder.ipynb): it shows how to encode data from an EVALITA task to generate prompts for the LLM
 * [**Step 2 - Fine-tuning the LLaMA model**](BISS-2024_LAB-2.2_ExtremITA_train.ipynb): it shows how to fine-tune the LLMS given the prompts 
-* [**Step 3 - Inference: generating answers**](BISS-2024_LAB-2.3_ExtremITA_data_decoder.ipynb): it shows how to use the fined-tuned model
-* [**Step 4 - Deconding the data**](BISS-2024_LAB-2.4_ExtremITA_inference.ipynb): it shows how to conver the data to be evaluated in the EVALTA challenge
+* [**Step 3 - Inference: generating answers**](BISS-2024_LAB-2.3_ExtremITA_inference.ipynb): it shows how to use the fined-tuned model
+* [**Step 4 - Deconding the data**](BISS-2024_LAB-2.4_ExtremITA_data_decoder.ipynb): it shows how to conver the data to be evaluated in the EVALTA challenge
 
 ## Slides
 
