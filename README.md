@@ -6,7 +6,7 @@
 
 ### Many thanks to: [Claudiu Daniel Hromei](https://scholar.google.it/citations?user=YQRKKFoAAAAJ&hl=it) for supporting the development of (most of the) code
 
-This repository hosts materials from the Bertinoro International Spring School - [BISS-2024 tutorial](https://cs.unibo.it/projects/BISS/2024/), aiming to:
+This repository hosts materials from the Bertinoro International Spring School - [BISS-2024](https://cs.unibo.it/projects/BISS/2024/) tutorial.
 
 The **objective of this tutorial** is:
 
@@ -29,7 +29,7 @@ In this lab we will see how it is simple to use BERT for a sentence classificati
 
 The python book is available at this [**LINK**](BISS-2024_LAB-1_Training_BERT_based_models_in_few_lines_of_code.ipynb).
 
-### Lab 2: Fine-tune a LLaMA-based model to all tasks from EVALITA 2023
+### Lab 2: Fine-tune a LLaMA-based model for all tasks from EVALITA 2023
 
 At the end, this tutorial shows how to encode data from different tasks into specific prompts and fine-tune the LLM using [Q-LoRA](https://arxiv.org/abs/2305.14314). The code can be also used in Google Colab using an Nvidia-T4 GPU with 15GB memory.
 
