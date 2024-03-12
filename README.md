@@ -50,6 +50,10 @@ The overall process is divided in four steps:
 
 The repository also features **tutorial slides** ([LINK](BISS_2024_slides.pdf)).
 
+## Project Assignment
+
+The process assignment is presented at the following [LINK](project_assignment/README.md).
+
 ## Contacts
 
 For queries or suggestions, raise an Issue in this repository or email  [croce@info.uniroma2.it](mailto:croce@info.uniroma2.it)
