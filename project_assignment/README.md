@@ -44,7 +44,7 @@ Email all of the above to: [croce@info.uniroma2.it](mailto:croce@info.uniroma2.i
 
 The deadline for project submission is **May 31, 2024** (sharp). 
 
-Please ensure that your email subject line is formatted as ``[BISS 2024 LLM Project]`, to facilitate the sorting and review process.
+Please ensure that your email subject line is formatted as ``[BISS 2024 LLM Project]``, to facilitate the sorting and review process.
   
 
 
