@@ -39,12 +39,16 @@ The code is heavily based on the one used in ExtremITA system participating to E
 * [ExtremITA Github Code](https://github.com/crux82/ExtremITA)
 
 
-The overall process is divided in four steps:
+The overall process is divided into four steps:
 
 * [**Step 1 - Encoding the data**](BISS-2024_LAB-2.1_ExtremITA_data_encoder.ipynb): it shows how to encode data from an EVALITA task to generate prompts for the LLM
 * [**Step 2 - Fine-tuning the LLaMA model**](BISS-2024_LAB-2.2_ExtremITA_train.ipynb): it shows how to fine-tune the LLMS given the prompts 
 * [**Step 3 - Inference: generating answers**](BISS-2024_LAB-2.3_ExtremITA_inference.ipynb): it shows how to use the fined-tuned model
 * [**Step 4 - Deconding the data**](BISS-2024_LAB-2.4_ExtremITA_data_decoder.ipynb): it shows how to conver the data to be evaluated in the EVALTA challenge
+
+NOTE: if you have issues accessing Step 2 or Step 3, try the direct access to COLAB
+* [**Alternative - Step 2 - Fine-tuning the LLaMA model**](https://colab.research.google.com/github/crux82/BISS-2024/blob/main/BISS-2024_LAB-2.2_ExtremITA_train.ipynb)
+* [**Alternative - Step 3 - Inference: generating answers**](https://colab.research.google.com/github/crux82/BISS-2024/blob/main/BISS-2024_LAB-2.3_ExtremITA_inference.ipynb)
 
 ## Slides
 
